@@ -1,0 +1,20 @@
+{
+  "nam": {
+    "salt": "e7fcd4d16af4d560efd20f2452c89dfc",
+    "hash": "b26447bd27a54632dee0cfa2f054618ae759aaea700725148fadcc4a314defd7",
+    "created_at": "2025-08-18T15:47:27.042792",
+    "avatar_path": "D:\\BTL-CĐS\\assets\\avatars\\nam.png"
+  },
+  "thanhbinh": {
+    "salt": "9aa7c5b9bcde364aa4eae28d458404bd",
+    "hash": "dc7ad8a0a7ad70447452bf486025935270f46826439e11a6399b552da09a800e",
+    "created_at": "2025-08-19T01:51:31.138312",
+    "avatar_path": "D:\\NAM 3 - KY 1\\BTL-CĐS\\assets\\avatars\\thanhbinh.png"
+  },
+  "thanhbinh01": {
+    "salt": "80f38efddb2684f8c19a090d84fbeff3",
+    "hash": "e598cf8f790e3172bbfb45c9df52f7e911565ccb0d1252e5fa046eeaa4696065",
+    "created_at": "2025-08-19T01:55:45.992365",
+    "avatar_path": "D:\\NAM 3 - KY 1\\BTL-CĐS\\assets\\avatars\\thanhbinh01.png"
+  }
+}

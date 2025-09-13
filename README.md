@@ -133,11 +133,23 @@ self.skin_types = {
     4: "Da mới"  # Thêm loại da mới
 }
 ```
+### Hình ảnh demo
+Hình ảnh demo
+<img width="1822" height="673" alt="image" src="https://github.com/user-attachments/assets/0ff59feb-1435-4c10-a199-774fde28c6bf" />
+<img width="1774" height="839" alt="image" src="https://github.com/user-attachments/assets/c3b58069-08b7-44d8-a0cc-3b9ac3c27739" />
+<img width="1804" height="837" alt="image" src="https://github.com/user-attachments/assets/f17558d2-6863-4c4a-ac62-c092da97cae5" />
+<img width="1797" height="867" alt="image" src="https://github.com/user-attachments/assets/dc8935ff-91ec-4b0d-a82e-acfe76c5319f" />
+<img width="1807" height="722" alt="image" src="https://github.com/user-attachments/assets/b5490e63-31b6-440c-a1d0-5083fd9ce226" />
+<img width="1840" height="657" alt="image" src="https://github.com/user-attachments/assets/7823c700-6e5b-4b3a-bf95-6f765968fef3" />
+<img width="1835" height="405" alt="image" src="https://github.com/user-attachments/assets/7b837934-7dba-4667-8d45-6059c0efc9ee" />
+<img width="1756" height="629" alt="image" src="https://github.com/user-attachments/assets/24456829-f384-4583-8315-28c5fefd7217" />
+
+
 
 ## 📊 Hiệu suất và độ chính xác
 
 ### Model phân loại da
-- **Độ chính xác**: 85-90% (với dữ liệu giả lập)
+- **Độ chính xác**: 30-65% (với dữ liệu giả lập)
 - **Thời gian huấn luyện**: ~30 giây (1000 mẫu)
 - **Thời gian dự đoán**: <1 giây
 
